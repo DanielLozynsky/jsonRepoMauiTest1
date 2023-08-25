@@ -1,0 +1,17 @@
+[
+  {
+    "NextWash": "Tuesday, 22nd August",
+    "Time": "Time slot provided 24 hours before wash",
+    "Upgrades": ["Ceramic Coating", "Internal Vacuum"],
+  },
+  {
+    "NextWash": "Wednesday, 23rd August",
+    "Time": "09:00 - 10:00",
+    "Upgrades": ["Ceramic Coating"],
+  },
+  {
+    "NextWash": "Thursday, 24th August",
+    "Time": "14:00 - 15:00",
+    "Upgrades": ["Polish"],
+  }
+]
