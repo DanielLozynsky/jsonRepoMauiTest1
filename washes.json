@@ -1,17 +1,20 @@
 [
   {
+    "UserID": "1",
     "LicensePlate": "DS17 WSW",
     "NextWash": "Tuesday, 22nd August",
     "Upgrades": ["Ceramic Coating", "Internal Vacuum"],
     "Time": "Time slot provided 24 hours before wash"
   },
   {
-    "LicensePlate": "DS17 WSW",
+    "UserID": "2",
+    "LicensePlate": "LG18 ISN",
     "NextWash": "Wednesday, 23rd August",
     "Time": "09:00 - 10:00",
     "Upgrades": ["Ceramic Coating"]
   },
   {
+    "UserID": "1",
     "LicensePlate": "DS17 WSW",
     "NextWash": "Thursday, 24th August",
     "Time": "14:00 - 15:00",
