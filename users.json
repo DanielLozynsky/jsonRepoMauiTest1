@@ -1,0 +1,16 @@
+[
+  {
+    "LicensePlates": ["DS17 WSW", "PS11 BDM"],
+    "Id": "1",
+    "Name": "John Smith",
+    "Email": "john.smith@gmail.com",
+    "PhoneNumber": "072617289483"
+  },
+  {
+    "LicensePlates": ["LG18 ISN"],
+    "Id": "2",
+    "Name": "Jane Doe",
+    "Email": "jane.doe@gmail.com",
+    "PhoneNumber": "07216230092"
+  }
+]
